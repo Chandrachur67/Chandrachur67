@@ -27,7 +27,7 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,javascript,typescript,python,java,solidity&theme=dark" alt="Programming Languages" />
   <img src="https://skillicons.dev/icons?i=git,github,docker" alt="Version Control & Docker" />
 
-  <div style="width: 100%">
+<!--  <div style="width: 100%">
 
    <div style="display: flex; flex-direction: row; justify-content: space-around; width: 100%;">
 
@@ -43,7 +43,25 @@
 
 </div>
 
-  </div>
+  </div> -->
+  <table>
+  <tr>
+  	<td> 
+      <h2>📊 GitHub Stats</h2>
+    </td>
+  	<td>
+      <h2>📊 Leetcode Stats</h2>
+    </td>
+  </tr>
+    <tr>
+  	<td> 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chandrachur67&show_icons=true&locale=en&layout=compact" alt="Chandrachur67" height="195px" />
+    </td>
+  	<td>
+      <img src="https://leetcard.jacoblin.cool/Chandrachur?ext=contest" alt="LeetCode Stats" height="300px" />
+    </td>
+  </tr>
+  </table>
 
 
 </body>
