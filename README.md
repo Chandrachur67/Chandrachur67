@@ -17,8 +17,6 @@
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 
-  <img src="assets/borderseparator.gif" alt="border-seperator" />
-
   <img src="https://komarev.com/ghpvc/?username=Chandrachur67" alt="GitHub Profile Views" />
 
   <h2>🚀 Technologies & Tools</h2>
