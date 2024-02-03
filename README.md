@@ -21,9 +21,9 @@
 
   <h2>🚀 Technologies & Tools</h2>
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,mongodb,express,nodejs,react,express,next,tailwind,vue,firebase" alt="Tech Stack" />
-  <img src="https://skillicons.dev/icons?i=c,cpp,javascript,typescript,python,java,solidity&theme=dark" alt="Programming Languages" />
-  <img src="https://skillicons.dev/icons?i=git,github,docker" alt="Version Control & Docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,mongodb,express,nodejs,react,express,next,tailwind,vue,firebase,rails" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,javascript,typescript,python,java,solidity,ruby&theme=dark" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=bash,git,github,docker" alt="Version Control & Docker" />
 
 <!--  <div style="width: 100%">
 
